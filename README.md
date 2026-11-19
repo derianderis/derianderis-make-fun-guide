@@ -60,6 +60,8 @@ A few things worth knowing up front:
 
 My tip, from building this guide: start with a small, open bounty with a clear starter. Read its rules first, then build. Do not pick the biggest prize first — pick the one you can finish before its deadline.
 
+A second tip: after you push your guide to GitHub, open the repository page yourself and check the README renders the way you expect. If a badge link or the referral link looks wrong there, fix it before you submit — the checks read the same page you see.
+
 ## What you need
 
 - **An AI coding agent.** Any of the common ones works. The kit finds the sessions of Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, opencode, Cline, Aider and over 30 more on its own.
